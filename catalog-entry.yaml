@@ -16,3 +16,18 @@ entries:
     git_url: "https://github.com/kevinbtalbert/CML_LLM-HANDS-ON-LABS"
     git_ref: "test-amp-1"
     is_prototype: true
+  - title: SAU
+    label: SAU
+    short_description: |
+      This AMP deploys Mistral 7B CPU-based model as a CML API endpoint. Requires a node with 4 vCores and 16 GB memory minimum.
+    long_description: |
+      This AMP deploys Mistral 7B CPU-based model as a CML API endpoint. Requires a node with 4 vCores and 16 GB memory minimum.
+    image_path: "https://raw.githubusercontent.com/kevinbtalbert/CML_LLM-HANDS-ON-LABS/main/0_deploy_prerequisites/assets/amp-cover.png"
+    tags: 
+      - CML Labs
+      - Mistral 7B
+      - LLM
+      - Model Deployment
+    git_url: "https://github.infra.cloudera.com/Sense/git-branch-test.git"
+    git_ref: "test-branch"
+    is_prototype: true
