@@ -28,6 +28,5 @@ entries:
       - Mistral 7B
       - LLM
       - Model Deployment
-    git_url: "https://github.infra.cloudera.com/Sense/git-branch-test.git"
-    git_ref: "test-branch"
+    git_url: "git@gitlab.com:saurabhs3/test-proj.git"
     is_prototype: true
