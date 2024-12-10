@@ -28,5 +28,5 @@ entries:
       - Mistral 7B
       - LLM
       - Model Deployment
-    git_url: "git@gitlab.com:saurabhs3/test-proj.git"
+    git_url: "git@github.com:Saurabh1999/test-amp-app-1.git"
     is_prototype: true
